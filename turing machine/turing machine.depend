@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1416958407 source:d:\new folder\root\nova pasta\turing machine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

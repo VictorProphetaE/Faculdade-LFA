@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1445271659 source:f:\new folder\root\nova pasta\glc para ap\main.cpp
+	"main.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1445271644 f:\new folder\root\nova pasta\glc para ap\main.h
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1431714134 source:f:\new folder\root\implementação afd\afd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Implementacao_Automato.h"
+
+1431633006 f:\new folder\root\implementação afd\afd\implementacao_automato.h
+
+1431632269 source:f:\new folder\root\implementação afd\afd\implementacao_automato.c
+	<stdio.h>
+	<string.h>
+	<string.h>
+	<stdlib.h>
+	"Implementacao_Automato.h"
+
